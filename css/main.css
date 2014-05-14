@@ -1,0 +1,49 @@
+body {
+	font-family: "futura-pt", helvetica, "sans-serif" !important;
+	font-weight: 300 !important;
+	color: #333333 !important;
+	font-size: 1.6em !important;
+}
+
+h1 {
+	font-size: 4.0em !important;
+	margin-top: 0px !important;
+	padding-top: 40px !important;
+}
+
+a {
+	color: #8FBE00 !important;
+}
+
+.header {
+	background-color: #F8F8F8;
+	border-bottom: 4px solid #00A8C6;
+}
+
+.header ul li {
+	margin-bottom: 15px;
+}
+	
+.tagline {
+	padding: 20px;
+}
+	
+.bio {
+	padding: 20px;
+}
+
+.post-list {
+	margin: 100px 40px 20px 40px;
+}
+
+.post-list-date {
+	margin-bottom: 20px;
+}
+
+.posts li {
+	margin-bottom: 40px;
+}
+
+.post {
+	padding: 40px;
+}
