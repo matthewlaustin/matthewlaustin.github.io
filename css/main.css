@@ -26,7 +26,7 @@ p {
 }
 
 .side-header-content {
-	padding-top: 80px;
+	padding-top: 40px;
 }
 
 .site-nav {
@@ -34,8 +34,7 @@ p {
 }
 
 .post {
-	margin-top: 30px;
-	padding-top:0px !important;
+	margin-top: 40px;
 }
 
 .site-footer {
