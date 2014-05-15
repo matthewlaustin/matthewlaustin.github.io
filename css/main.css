@@ -5,10 +5,11 @@ body {
 .site-title {
 	font-size: 2.0em !important;
 	color: #333 !important;
+	margin-bottom: 40px !important;
 }
 
 .site-title:hover {
-	
+	text-decoration: none !important;
 }
 
 .side-header-content {
@@ -17,7 +18,7 @@ body {
 }
 
 .post {
-	padding-top: 10px;
+	padding-top: 30px;
 }
 
 .site-footer {
