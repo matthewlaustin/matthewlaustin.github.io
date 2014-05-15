@@ -6,3 +6,7 @@ body {
 	position: fixed;
 	padding-top: 80px;
 }
+
+.site-footer {
+	padding-bottom: 100px;
+}
