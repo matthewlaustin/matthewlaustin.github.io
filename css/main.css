@@ -2,6 +2,7 @@ body {
 		background-color: #f8f8f8;
 }
 
-.side-header {
+.side-header-content {
 	position: fixed;
+	padding-top: 80px;
 }
