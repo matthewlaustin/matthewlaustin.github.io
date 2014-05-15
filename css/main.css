@@ -2,6 +2,15 @@ body {
 	font-family: "ff-meta-web-pro", sans-serif !important;
 }
 
+.site-title {
+	font-size: 2.0em !important;
+	color: #333 !important;
+}
+
+.site-title:hover {
+	
+}
+
 .side-header-content {
 	position: fixed;
 	padding-top: 40px;
