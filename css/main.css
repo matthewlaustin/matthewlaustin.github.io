@@ -1,6 +1,7 @@
 body {
 	font-family: "ff-meta-web-pro", sans-serif !important;
-	line-height: 1.2;
+	line-height: 1.5 em !important;
+	font-size: 1.1 em !important;
 }
 
 .site-title {
