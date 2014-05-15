@@ -1,18 +1,17 @@
 body {
 	font-family: "ff-meta-web-pro", sans-serif !important;
-	line-height: 1.5em !important;
-	font-size: 1.7em !important;
 	background-color: #f8f8f8 !important;
 }
 
 h1 {
 	margin-top: 0px !important;
 	font-size: 30px !important;
-	line-height: 1.0 !important;
 }
 
 p {
 	margin-bottom: 20px !important;
+	line-height: 1.5em !important;
+	font-size: 1.7em !important;
 }
 
 .site-title {
